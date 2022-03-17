@@ -1,0 +1,9 @@
+Ranks:
+  TerraI:
+    Display: "&e[TerraI]"
+    Pontos: 0.0
+    Preco: 30.0
+  TerraII:
+    Display: "&e[TerraII]"
+    Pontos: 5.0
+    Preco: 50.0

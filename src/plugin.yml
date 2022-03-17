@@ -1,0 +1,10 @@
+name: sRank
+version: 1.0
+author: Brenoowt
+main: com.skymiticos.Main
+commands:
+  rankup:
+    aliases: [upar]
+  loteria:
+  pontos:
+    aliases: [ponto]

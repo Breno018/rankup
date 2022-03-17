@@ -1,0 +1,16 @@
+Grupos:
+  membro:
+    Display: "&7Membro"
+    Permissao: "membro.tag"
+    Padrao: true
+    Ordem: "c"
+  vip:
+    Display: "&6VIP"
+    Permissao: "vip.tag"
+    Padrao: false
+    Ordem: "b"
+  ceo:
+    Display: "&4CEO"
+    Permissao: "ceo.tag"
+    Padrao: false
+    Ordem: "a"
